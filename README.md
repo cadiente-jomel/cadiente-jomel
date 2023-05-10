@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Apartment Management System](https://github.com/cadiente-jomel/AMS-API)
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **React, Rust**
 
 - 👨‍💻 All of my projects are available at my [Github Repositories](https://github.com/cadiente-jomel?tab=repositories)
 
