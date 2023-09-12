@@ -36,8 +36,10 @@
 
 # 📊 GitHub Stats:
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadiente-jomel&theme=dark](https://github-readme-streak-stats.herokuapp.com?user=cadiente-jomel&theme=react" alt="cadiente-jomel" /></span>
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadiente-jomel&show_icons=true&locale=en&theme=react" alt="cadiente-jomel" /></span>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadiente-jomel&theme=dark](https://github-readme-streak-stats.herokuapp.com?user=cadiente-jomel&theme=react" alt="cadiente-jomel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadiente-jomel&show_icons=true&locale=en&theme=react" alt="cadiente-jomel" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadiente-jomel&show_icons=true&locale=en&layout=compact&theme=react" alt="cadiente-jomel" /></p>
 
 
