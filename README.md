@@ -9,7 +9,7 @@
 
 - 👯 I’m open to contributing to your projects.
   
-- 🌱 I’m currently learning **Svelte, and Go**
+- 🌱 I’m currently learning **Unity, and C#**
 
 - 👨‍💻 All of my projects are available at my [Github Repositories](https://github.com/cadiente-jomel?tab=repositories)
 
